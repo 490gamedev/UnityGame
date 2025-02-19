@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dino-idle_0: 3534843625287699903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

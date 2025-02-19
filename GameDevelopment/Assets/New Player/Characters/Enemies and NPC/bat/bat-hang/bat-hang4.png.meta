@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bat-hang4_0: -5120870751842433740
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

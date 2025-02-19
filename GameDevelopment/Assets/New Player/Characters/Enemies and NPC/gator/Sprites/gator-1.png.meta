@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gator-1_0: 326291791242508785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

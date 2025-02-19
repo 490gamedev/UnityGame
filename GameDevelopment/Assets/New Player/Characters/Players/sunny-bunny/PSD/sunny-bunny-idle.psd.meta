@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sunny-bunny-idle_0: 7620069888242977910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

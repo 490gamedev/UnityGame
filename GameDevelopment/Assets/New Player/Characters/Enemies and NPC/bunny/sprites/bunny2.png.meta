@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bunny2_0: 1840293236442141911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

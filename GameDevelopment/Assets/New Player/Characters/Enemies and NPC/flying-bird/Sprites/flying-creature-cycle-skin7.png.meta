@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flying-creature-cycle-skin7_0: 2768936547480563731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

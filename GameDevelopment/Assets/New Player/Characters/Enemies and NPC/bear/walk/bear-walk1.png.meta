@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bear-walk1_0: 8095662210393073067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

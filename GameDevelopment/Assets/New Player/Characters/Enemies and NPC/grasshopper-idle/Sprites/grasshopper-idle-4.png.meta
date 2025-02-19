@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      grasshopper-idle-4_0: -4552414328622937422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

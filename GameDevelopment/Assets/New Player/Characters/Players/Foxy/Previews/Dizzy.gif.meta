@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dizzy_0: 3558255275726140298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

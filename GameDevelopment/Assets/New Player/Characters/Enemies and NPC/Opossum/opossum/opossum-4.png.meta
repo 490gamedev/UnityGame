@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      opossum-4_0: -4348611725909519148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

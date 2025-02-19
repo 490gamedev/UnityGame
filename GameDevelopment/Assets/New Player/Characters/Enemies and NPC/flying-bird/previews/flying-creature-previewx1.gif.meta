@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flying-creature-previewx1_0: 4370062255010530953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

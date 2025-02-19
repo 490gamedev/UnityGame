@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slimer-idle2_0: -3850376485529281479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

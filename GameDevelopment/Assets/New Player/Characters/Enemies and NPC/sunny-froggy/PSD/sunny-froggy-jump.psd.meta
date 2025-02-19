@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sunny-froggy-jump_0: -5318971732402678574
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
