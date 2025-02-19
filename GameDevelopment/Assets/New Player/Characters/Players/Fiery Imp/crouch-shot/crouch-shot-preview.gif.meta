@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crouch-shot-preview_0: -6313579073734153532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

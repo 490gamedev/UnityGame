@@ -178,7 +178,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spring_0: 2836554479157175418
+      spring_1: -1961900865478407530
+      spring_2: -1043803572495411551
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

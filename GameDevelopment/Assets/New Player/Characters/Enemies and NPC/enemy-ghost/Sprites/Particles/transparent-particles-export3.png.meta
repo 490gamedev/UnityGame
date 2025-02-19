@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      transparent-particles-export3_0: -4011429944776132910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

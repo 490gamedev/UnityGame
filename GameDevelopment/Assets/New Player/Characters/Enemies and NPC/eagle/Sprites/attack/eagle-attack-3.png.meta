@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eagle-attack-3_0: 4299730686557431164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

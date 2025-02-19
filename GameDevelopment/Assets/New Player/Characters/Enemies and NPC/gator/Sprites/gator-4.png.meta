@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gator-4_0: -8027983427308058082
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

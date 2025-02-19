@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sunny-froggy-walk_0: -571684592694324635
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vulture-idle2_0: 5375108220088238544
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
