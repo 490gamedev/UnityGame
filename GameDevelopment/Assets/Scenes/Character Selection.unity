@@ -145,8 +145,8 @@ Transform:
   m_GameObject: {fileID: 203275747}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -549.93, y: -258.43, z: 0}
-  m_LocalScale: {x: 0.59484005, y: 0.5616, z: 1}
+  m_LocalPosition: {x: 8.3902, y: 8.1933, z: 0}
+  m_LocalScale: {x: 30.73961, y: 25.851488, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1908957408}
@@ -1045,15 +1045,15 @@ RectTransform:
   m_GameObject: {fileID: 1908957407}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 5}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 203275748}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 919, y: 715}
-  m_SizeDelta: {x: 415.916, y: 45.5225}
+  m_AnchoredPosition: {x: 0.32, y: 6.6}
+  m_SizeDelta: {x: 275.3367, y: 28.60549}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1908957409
 MonoBehaviour:
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36.05
+  m_fontSize: 23.85
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1439,7 +1439,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 258.18713
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1464,7 +1464,7 @@ Transform:
   m_GameObject: {fileID: 2105835308}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 554, y: 260, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1479,12 +1479,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 2005961101}
     m_Modifications:
     - target: {fileID: 2531723787251875225, guid: 1e645f3a0fda6604485e58d1eb026a5a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 223.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 2531723787251875225, guid: 1e645f3a0fda6604485e58d1eb026a5a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 178.98999
+      objectReference: {fileID: 0}
+    - target: {fileID: 2531723787251875225, guid: 1e645f3a0fda6604485e58d1eb026a5a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -549.91
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 2531723787251875225, guid: 1e645f3a0fda6604485e58d1eb026a5a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -258.38
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 2531723787251875225, guid: 1e645f3a0fda6604485e58d1eb026a5a, type: 3}
       propertyPath: m_LocalPosition.z
