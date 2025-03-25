@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
     public float speed = 20f;
     private Rigidbody2D body;
     private Animator animator;
@@ -16,6 +17,8 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
     private bool jumped;
     public float jumpHeight = 5f;
+
+    
 
     private void Awake()
     {
